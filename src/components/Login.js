@@ -63,7 +63,7 @@ const Login = () => {
   };
 
   return (
-    <div className="bg-[#F7F8F9] border-gray-600 p-7 w-93.75 m-auto h-[80dvh] mt-[10dvh] mb-[10dvh] flex flex-col">
+    <div className="bg-[#F7F8F9] border border-gray-300 p-7 w-93.75 m-auto h-[80dvh] mt-[10dvh] mb-[10dvh] flex flex-col">
       <div className="my-2 text-gray-600">
         <Link to="/" className="flex items-center gap-2">
           <IoMdArrowRoundBack className="text-indigo-500" />
